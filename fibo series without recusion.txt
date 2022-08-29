@@ -1,10 +1,12 @@
 //  print fibo series without recursion
 //  0,1,1,2,3,5,8,13,.......n
 
+
 #include<iostream>
 using namespace std;
 
-int printfibo(int n){
+// void aur int apne according lga lenge
+void printfibo(int n){
     
     int a=0,b=1;
     cout<<a<<" "<<b<<" ";
