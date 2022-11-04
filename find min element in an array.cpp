@@ -32,7 +32,7 @@ int main(){
 }
 
 // 2nd Approach
-/*
+
 int getMin(int arr[],int n){
     
     int ans = arr[0];
@@ -53,4 +53,3 @@ int main(){
     
     return 0;
 }
-*/
